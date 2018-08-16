@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Planets</string>
+    <string name="click_me">Sun</string>
+    <string name="clear">Clear</string>
+    <string name="touch_any_planet_to_know_about_them">Touch any planet to know about them</string>
+    <string name="our_solar_system">OUR SOLAR SYSTEM</string>
+    <string name="more">  More</string>
+</resources>
